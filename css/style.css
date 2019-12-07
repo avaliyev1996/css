@@ -1,4 +1,21 @@
-p{
-    background-color: aqua;
+.sekil1{
+    width: 100px;
+    height: 100px;
+    background-image: url(../img/img.jpg);
+    background-size: cover;
+    display: inline-block;
 }
-div p{background: dodgerblue}
+.sekil2{
+    width: 100px;
+    height: 100px;
+    background-image: url(../img/imp.jpg);
+    background-size: cover;
+    display: inline-block;
+}
+.sekil3{
+    width: 100px;
+    height: 100px;
+    background-image: url(../img/imp2.jpg);
+    background-size: cover;
+    display: inline-block;
+}
