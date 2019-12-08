@@ -1,21 +1,10 @@
-.sekil1{
-    width: 100px;
-    height: 100px;
-    background-image: url(../img/img.jpg);
-    background-size: cover;
-    display: inline-block;
-}
-.sekil2{
-    width: 100px;
-    height: 100px;
-    background-image: url(../img/imp.jpg);
-    background-size: cover;
-    display: inline-block;
-}
-.sekil3{
-    width: 100px;
-    height: 100px;
-    background-image: url(../img/imp2.jpg);
-    background-size: cover;
-    display: inline-block;
-}
+ div{
+     display: inline-block;
+     width: 100px;
+     border: 2px solid black;
+     border-radius: 50%;
+     font-size: 20px;
+     text-align: center;
+     line-height: 3.2;
+     margin: 0 20px;
+ }
